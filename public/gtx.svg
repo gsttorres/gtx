@@ -1,0 +1,14 @@
+<svg width="283" height="64" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;" stroke="null">
+
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <rect stroke="#000" id="svg_2" height="0" width="1" y="33.5" x="9.5" fill="#fff"/>
+  <rect stroke="#000" id="svg_6" height="0" width="1" y="-0.5" x="310.5" fill="#fff"/>
+  <rect stroke="#000" id="svg_7" height="48" width="20" y="-22.5" x="299.5" fill="#fff"/>
+  <text stroke="#000" style="vector-effect: non-scaling-stroke;" xml:space="preserve" text-anchor="start" font-family="'Montserrat Thin'" font-size="58" id="svg_11" y="51.5" x="0.5" stroke-width="0" fill="#000000">G</text>
+  <text style="cursor: move;" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Montserrat Thin'" font-size="21" id="svg_12" y="51.5" x="41.96512" stroke-width="0" fill="#000000">USTAVO</text>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Montserrat Thin'" font-size="58" id="svg_13" y="51.5" x="173.5" stroke-width="0" fill="#000000">T</text>
+  <text stroke="#000" style="vector-effect: non-scaling-stroke;" xml:space="preserve" text-anchor="start" font-family="'Montserrat Thin'" font-size="21" id="svg_14" y="51.5" x="196.5" stroke-width="0" fill="#000000">ORRES</text>
+  <path stroke="#000" id="svg_15" d="m142.77113,51.65297c-1.72087,0.0526 -4.23949,-0.74658 -2.47995,-2.52932c1.91566,-0.67869 -0.34048,-2.92821 1.57934,-3.98787c1.54098,-1.9722 3.63525,-3.7732 4.26725,-6.18162c-0.09815,-1.63339 -2.26737,-2.60004 -1.23246,-4.40796c-1.01533,-2.89312 -0.78068,-6.22313 1.07273,-8.82381c1.5738,-2.4155 3.48459,-4.97491 3.28307,-7.898c-1.97385,0.74084 -4.06319,1.38992 -6.23551,1.05348c-2.04229,-0.17048 -3.87392,1.3159 -5.95714,0.5077c-2.11171,-0.39433 -3.36778,-2.93214 -1.79328,-4.41565c1.72063,-1.321 4.24867,-1.36351 5.88963,-2.83777c2.16507,-1.612 4.16765,-3.79231 7.15166,-4.07729c1.31886,-0.27139 1.88454,-1.46255 2.61459,-2.35523c0.60669,1.41579 1.66188,2.66773 3.25001,3.29538c3.22948,1.68133 4.03338,5.23586 5.22433,8.15786c0.88057,2.28841 1.61419,4.67769 3.08875,6.72067c0.01568,0.9805 -1.63948,1.39493 -0.52154,2.54438c0.58142,3.11749 0.60644,6.30982 0.5549,9.46375c-0.9806,1.54344 -1.8738,3.26614 -0.56571,5.03744c0.87377,2.16502 3.04986,3.58497 4.12048,5.628c0.6052,1.05787 -1.17984,2.59372 1.04418,2.32767c2.03105,0.96581 0.39104,3.3233 -1.629,2.63747c-7.57015,0.17302 -15.15698,0.34579 -22.72632,0.14072l0,0z" stroke-width="0" fill="#000000"/>
+ </g>
+</svg>
